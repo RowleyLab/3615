@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.21)  21 AUG 2024 12:05
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.21)  21 AUG 2024 13:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1160,18 +1160,23 @@ Overfull \hbox (6.45128pt too wide) in paragraph at lines 43--44
 
 [1
 
-] [2] [3] [4] [5] [6]
-Overfull \hbox (17.02809pt too wide) in paragraph at lines 249--250
+]
+Overfull \hbox (3.12712pt too wide) in paragraph at lines 72--74
+$\OML/cmm/m/it/12 ?$ \TU/Brill(0)/m/n/12 Remember the literature report assignment which you should work on \TU/Brill(0)/m/it/12 throughout \TU/Brill(0)/m/n/12 the semester! 
+ []
+
+[2] [3] [4] [5] [6]
+Overfull \hbox (17.02809pt too wide) in paragraph at lines 252--253
 \TU/Brill(0)/m/n/12 make a request to: [][]title9@suu.edu[][]. To learn more visit: [][]https://www.suu.edu/titleix/pregnancy.html[][]. 
  []
 
 
-Overfull \hbox (39.5282pt too wide) in paragraph at lines 252--253
+Overfull \hbox (39.5282pt too wide) in paragraph at lines 255--256
 \TU/Brill(0)/m/n/12 closures received from students that indicate they have been subjected to sexual misconduct/harassment.
  []
 
 [7]
-Overfull \hbox (0.45065pt too wide) in paragraph at lines 267--268
+Overfull \hbox (0.45065pt too wide) in paragraph at lines 270--271
 \TU/Brill(0)/m/n/12 gling with mental health issues, SUU provides resources, support, and services to help you. Please
  []
 

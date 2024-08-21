@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1724263591 "Chem_3615_Schedule.tex" "Chem_3615_Schedule.pdf" "Chem_3615_Schedule" 1724263592
+["pdflatex"] 1724267774 "Chem_3615_Schedule.tex" "Chem_3615_Schedule.pdf" "Chem_3615_Schedule" 1724267775
   "/etc/texmf/web2c/texmf.cnf" 1651124931 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -207,9 +207,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1711050178 3643309 265de73a06e222633e3704812e798558 ""
-  "Chem_3615_Schedule.aux" 1724263592 2557 07ceffd1b72abc30b52bd860c76a7d88 "pdflatex"
-  "Chem_3615_Schedule.out" 1724263592 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Chem_3615_Schedule.tex" 1724263589 3114 42207712c978d2882b143fad5a36c346 ""
+  "Chem_3615_Schedule.aux" 1724267775 2557 07ceffd1b72abc30b52bd860c76a7d88 "pdflatex"
+  "Chem_3615_Schedule.out" 1724267775 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Chem_3615_Schedule.tex" 1724267774 3232 6bfad96939bd233cba30f069cb7cc308 ""
   "SyllabusStyle.sty" 1724261083 2972 5113fda1bfeb1e07234ede6ea2295369 ""
   (generated)
   "Chem_3615_Schedule.aux"

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.21)  21 AUG 2024 12:06
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.21)  21 AUG 2024 13:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1153,6 +1153,11 @@ Overfull \hbox (4.85806pt too wide) in paragraph at lines 15--23
  [] 
  []
 
+
+Overfull \hbox (3.12712pt too wide) in paragraph at lines 28--30
+$\OML/cmm/m/it/12 ?$ \TU/Brill(0)/m/n/12 Remember the literature report assignment which you should work on \TU/Brill(0)/m/it/12 throughout \TU/Brill(0)/m/n/12 the semester! 
+ []
+
 [1
 
 ] [2] [3] (./Chem_3615_Schedule.aux)
@@ -1160,11 +1165,11 @@ Package rerunfilecheck Info: File `Chem_3615_Schedule.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 37215 strings out of 478158
- 834866 string characters out of 5853402
+ 37217 strings out of 478158
+ 834944 string characters out of 5853402
  1133721 words of memory out of 5000000
- 57213 multiletter control sequences out of 15000+600000
- 476102 words of font info for 88 fonts, out of 8000000 for 9000
+ 57214 multiletter control sequences out of 15000+600000
+ 476110 words of font info for 89 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  109i,7n,108p,438b,902s stack positions out of 5000i,500n,10000p,200000b,80000s
 
