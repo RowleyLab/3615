@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1724425616 "Chem_3615_Syllabus.tex" "Chem_3615_Syllabus.pdf" "Chem_3615_Syllabus" 1724425617
+["pdflatex"] 1787168970 "Chem_3615_Syllabus.tex" "Chem_3615_Syllabus.pdf" "Chem_3615_Syllabus" 1787168971
   "/etc/texmf/web2c/texmf.cnf" 1651124931 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -206,10 +206,10 @@
   "/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con" 1266284895 204 366747485ba2670f55166e66d1f21249 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
-  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1711050178 3643309 265de73a06e222633e3704812e798558 ""
-  "Chem_3615_Syllabus.aux" 1724425617 5040 7e6c451eaa58d5951c3caecf663591de "pdflatex"
-  "Chem_3615_Syllabus.out" 1724425617 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Chem_3615_Syllabus.tex" 1724425608 20942 b50e285daeb61e414e336e7c986b88e2 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1773167721 3643525 27353cf67d8cff85b5f0877e8be2985f ""
+  "Chem_3615_Syllabus.aux" 1787168971 5147 8ba798d08ddc67e8fc1eaec2274f10f5 "pdflatex"
+  "Chem_3615_Syllabus.out" 1787168971 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Chem_3615_Syllabus.tex" 1787168969 21695 94252fdfb8784f8f0cd8ba8f6c3b96f1 ""
   "SyllabusStyle.sty" 1724261083 2972 5113fda1bfeb1e07234ede6ea2295369 ""
   (generated)
   "Chem_3615_Syllabus.aux"

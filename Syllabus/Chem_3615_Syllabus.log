@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.21)  23 AUG 2024 09:06
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2026.3.10)  19 AUG 2026 13:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1149,19 +1149,19 @@ Package backref Info: ** backref set up for natbib ** on input line 4.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (/usr/share/texlive/texmf-dist/tex/latex/elements/elements_names_english.def)
-Overfull \hbox (4.85806pt too wide) in paragraph at lines 15--23
+Overfull \hbox (3.31007pt too wide) in paragraph at lines 15--23
  [] 
  []
 
 
-Overfull \hbox (6.45128pt too wide) in paragraph at lines 43--44
+Overfull \hbox (6.45128pt too wide) in paragraph at lines 42--43
 []\TU/Brill(0)/m/n/12 – Students will recall, interpret, compare, explain,
  []
 
 [1
 
 ]
-Overfull \hbox (3.12712pt too wide) in paragraph at lines 72--74
+Overfull \hbox (3.12712pt too wide) in paragraph at lines 71--73
 $\OML/cmm/m/it/12 ?$ \TU/Brill(0)/m/n/12 Remember the literature report assignment which you should work on \TU/Brill(0)/m/it/12 throughout \TU/Brill(0)/m/n/12 the semester! 
  []
 
